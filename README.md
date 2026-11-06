@@ -5,6 +5,7 @@
 **This repository serves as a code-only portfolio showcase.** It contains the custom C# architecture, systems, and algorithms we engineered. The heavy binary assets (textures, 3D models, audio) have been omitted to keep the repository lightweight and focused purely on code quality.\*\*
 
 ![In-game picture](/GameImage.png)
+
 In-game picture
 
 ---
