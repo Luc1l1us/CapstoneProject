@@ -2,9 +2,9 @@
 
 # City Rush Hour: Promoting Traffic Awareness through Nagel-Schreckenberg and A\* Algorithms in a PC Traffic Simulator Game
 
-**This repository serves as a code-only portfolio showcase.** It contains the custom C# architecture, systems, and algorithms I engineered. The heavy binary assets (textures, 3D models, audio) have been omitted to keep the repository lightweight and focused purely on code quality.\*\*
+**This repository serves as a code-only portfolio showcase.** It contains the custom C# architecture, systems, and algorithms we engineered. The heavy binary assets (textures, 3D models, audio) have been omitted to keep the repository lightweight and focused purely on code quality.\*\*
 
-![Picture of the game](/GameImage.png)
+![In-game picture](/GameImage.png)
 
 ---
 
